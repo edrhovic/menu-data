@@ -5,28 +5,28 @@
       "dishName": "Greek Salad",
       "dishDescription": "A refreshing salad with crispy lettuce, peppers, olives, and feta cheese.",
       "dishPrice": 12.99,
-      "dishImage": "greeksalad"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020078/greeksalad_zaxdh1.jpg"
     },
     {
       "dishId": 2,
       "dishName": "Bruschetta",
       "dishDescription": "Grilled bread with garlic, tomatoes, and basil.",
       "dishPrice": 7.99,
-      "dishImage": "bruschetta"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020077/brushchetta_qofcty.png"
     },
     {
       "dishId": 3,
       "dishName": "Carbonara",
       "dishDescription": "Classic Italian pasta with creamy sauce and bacon.",
       "dishPrice": 10.49,
-      "dishImage": "carbonara"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020076/carbonara_p5aiit.jpg"
     },
     {
       "dishId": 4,
       "dishName": "Beef Steak",
       "dishDescription": "Juicy beef steak grilled to perfection.",
       "dishPrice": 20.99,
-      "dishImage": "beefsteak"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020077/beefsteak_rjfpbl.jpg"
     }
   ],
 
@@ -38,84 +38,77 @@
       "dishName": "Calamari",
       "dishDescription": "Fried squid served with lemon and garlic aioli.",
       "dishPrice": 14.99,
-      "dishImage": "calamari"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020076/calamari_tj7fba.jpg"
     },
     {
       "dishId": 6,
       "dishName": "Caprese Salad",
       "dishDescription": "Fresh mozzarella, tomatoes, and basil with balsamic glaze.",
       "dishPrice": 11.99,
-      "dishImage": "capresesalad"
-    },
-    {
-      "dishId": 7,
-      "dishName": "Carbonara",
-      "dishDescription": "Classic Italian pasta with creamy sauce and bacon.",
-      "dishPrice": 15.99,
-      "dishImage": "carbonara"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020077/capresesalad_hdtvnj.jpg"
     },
     {
       "dishId": 8,
       "dishName": "Cheese Bread",
       "dishDescription": "Soft bread baked with melted cheese.",
       "dishPrice": 8.99,
-      "dishImage": "cheesebread"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020076/cheesebread_pm0ogw.jpg"
     },
     {
       "dishId": 9,
       "dishName": "Chocolate Cake",
       "dishDescription": "Rich chocolate sponge with creamy frosting.",
       "dishPrice": 7.99,
-      "dishImage": "chocolatecake"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020077/chocolatecake_mjkdlc.jpg"
     },
     {
       "dishId": 10,
       "dishName": "Fish and Chips",
       "dishDescription": "Crispy fried fish with golden fries.",
       "dishPrice": 16.99,
-      "dishImage": "fishandchips"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020077/fishandchips_olmxxx.jpg"
     },
     {
       "dishId": 11,
       "dishName": "Garlic Shrimp",
       "dishDescription": "Shrimp sautéed with garlic and butter.",
       "dishPrice": 14.99,
-      "dishImage": "garlicshrimp"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020077/garlicshrimp_morgiy.jpg"
     },
     {
       "dishId": 12,
       "dishName": "Grilled Chicken",
       "dishDescription": "Herb-marinated chicken grilled to perfection.",
       "dishPrice": 17.99,
-      "dishImage": "grilledchicken"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020078/grilledchicken_sorl2l.jpg"
     },
     {
       "dishId": 13,
       "dishName": "Lasagna",
       "dishDescription": "Layers of pasta, meat sauce, and cheese.",
       "dishPrice": 16.99,
-      "dishImage": "lasagna"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020078/lasagna_ipwnzo.jpg"
     },
     {
       "dishId": 14,
       "dishName": "Lemon Dessert",
       "dishDescription": "Sweet and tangy lemon-flavored dessert.",
       "dishPrice": 6.99,
-      "dishImage": "lemondessert"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020078/lemondessert_oidhkz.jpg"
     },
     {
       "dishId": 15,
       "dishName": "Tiramisu",
       "dishDescription": "Italian dessert with coffee and mascarpone.",
       "dishPrice": 8.99,
-      "dishImage": "tiramisu"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020080/tiramisu_hdpfcm.jpg"
     },
     {
       "dishId": 16,
       "dishName": "Tomato Soup",
       "dishDescription": "Creamy tomato soup served with bread.",
       "dishPrice": 9.99,
-      "dishImage": "tomatosoup"
+      "dishImage": "https://res.cloudinary.com/dvqw3f4wt/image/upload/v1756020081/tomatosoup_rmihmc.jpg"
     }
   ]
 }
