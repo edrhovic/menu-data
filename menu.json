@@ -1,0 +1,121 @@
+{
+  "weeklySpecialsList": [
+    {
+      "dishId": 1,
+      "dishName": "Greek Salad",
+      "dishDescription": "A refreshing salad with crispy lettuce, peppers, olives, and feta cheese.",
+      "dishPrice": 12.99,
+      "dishImage": "greeksalad"
+    },
+    {
+      "dishId": 2,
+      "dishName": "Bruschetta",
+      "dishDescription": "Grilled bread with garlic, tomatoes, and basil.",
+      "dishPrice": 7.99,
+      "dishImage": "bruschetta"
+    },
+    {
+      "dishId": 3,
+      "dishName": "Carbonara",
+      "dishDescription": "Classic Italian pasta with creamy sauce and bacon.",
+      "dishPrice": 10.49,
+      "dishImage": "carbonara"
+    },
+    {
+      "dishId": 4,
+      "dishName": "Beef Steak",
+      "dishDescription": "Juicy beef steak grilled to perfection.",
+      "dishPrice": 20.99,
+      "dishImage": "beefsteak"
+    }
+  ],
+
+
+
+  "allAvailableMenu": [
+    {
+      "dishId": 5,
+      "dishName": "Calamari",
+      "dishDescription": "Fried squid served with lemon and garlic aioli.",
+      "dishPrice": 14.99,
+      "dishImage": "calamari"
+    },
+    {
+      "dishId": 6,
+      "dishName": "Caprese Salad",
+      "dishDescription": "Fresh mozzarella, tomatoes, and basil with balsamic glaze.",
+      "dishPrice": 11.99,
+      "dishImage": "capresesalad"
+    },
+    {
+      "dishId": 7,
+      "dishName": "Carbonara",
+      "dishDescription": "Classic Italian pasta with creamy sauce and bacon.",
+      "dishPrice": 15.99,
+      "dishImage": "carbonara"
+    },
+    {
+      "dishId": 8,
+      "dishName": "Cheese Bread",
+      "dishDescription": "Soft bread baked with melted cheese.",
+      "dishPrice": 8.99,
+      "dishImage": "cheesebread"
+    },
+    {
+      "dishId": 9,
+      "dishName": "Chocolate Cake",
+      "dishDescription": "Rich chocolate sponge with creamy frosting.",
+      "dishPrice": 7.99,
+      "dishImage": "chocolatecake"
+    },
+    {
+      "dishId": 10,
+      "dishName": "Fish and Chips",
+      "dishDescription": "Crispy fried fish with golden fries.",
+      "dishPrice": 16.99,
+      "dishImage": "fishandchips"
+    },
+    {
+      "dishId": 11,
+      "dishName": "Garlic Shrimp",
+      "dishDescription": "Shrimp sautéed with garlic and butter.",
+      "dishPrice": 14.99,
+      "dishImage": "garlicshrimp"
+    },
+    {
+      "dishId": 12,
+      "dishName": "Grilled Chicken",
+      "dishDescription": "Herb-marinated chicken grilled to perfection.",
+      "dishPrice": 17.99,
+      "dishImage": "grilledchicken"
+    },
+    {
+      "dishId": 13,
+      "dishName": "Lasagna",
+      "dishDescription": "Layers of pasta, meat sauce, and cheese.",
+      "dishPrice": 16.99,
+      "dishImage": "lasagna"
+    },
+    {
+      "dishId": 14,
+      "dishName": "Lemon Dessert",
+      "dishDescription": "Sweet and tangy lemon-flavored dessert.",
+      "dishPrice": 6.99,
+      "dishImage": "lemondessert"
+    },
+    {
+      "dishId": 15,
+      "dishName": "Tiramisu",
+      "dishDescription": "Italian dessert with coffee and mascarpone.",
+      "dishPrice": 8.99,
+      "dishImage": "tiramisu"
+    },
+    {
+      "dishId": 16,
+      "dishName": "Tomato Soup",
+      "dishDescription": "Creamy tomato soup served with bread.",
+      "dishPrice": 9.99,
+      "dishImage": "tomatosoup"
+    }
+  ]
+}
